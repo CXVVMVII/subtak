@@ -1,0 +1,3 @@
+# subtak
+
+subdomain takeover
